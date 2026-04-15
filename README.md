@@ -1,4 +1,4 @@
-# Product Ratings & Customer Preference Analysis
+# 🛋️ Product Ratings & Customer Preference Analysis
 
 ## Project Overview
 This project analyzes order and customer satisfaction data for Neat Furniture Store, an online furniture retailer operating across 12 brands, 6 product categories, and 31 subcategories.
@@ -59,11 +59,11 @@ plt.xticks(rotation=90)
 plt.show()
 ```
 ## Visualization / Dashboard
-- 📌 Distribution plots and boxplots for all numerical features (product price, shipping cost, assembly cost, total amount, delivery window days, customer rating)
-- 📌 Count plots for all categorical features (product category, subcategory, brand, delivery status, payment method, assembly service)
-- 📌 Line and box plots for total amount, delivery window days, and customer rating across categories, subcategories, and brands
-- 📌 Correlation heatmap and pairplot across numerical variables
-- 📌 Post-imputation distribution comparisons to validate data integrity
+- Distribution plots and boxplots for all numerical features (product price, shipping cost, assembly cost, total amount, delivery window days, customer rating)
+- Count plots for all categorical features (product category, subcategory, brand, delivery status, payment method, assembly service)
+- Line and box plots for total amount, delivery window days, and customer rating across categories, subcategories, and brands
+- Correlation heatmap and pairplot across numerical variables
+- Post-imputation distribution comparisons to validate data integrity
 
 🔗 **[View Interactive Tableau Dashboard](https://public.tableau.com/your-dashboard-link-here)** *(replace with your actual link)*
 
