@@ -86,15 +86,6 @@ plt.show()
 
 🔗 **[View Live Dashoard on Tableau Public](https://public.tableau.com/views/ProductRatingsCustomerPreferenceAnalysis/BrandOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
-## Visualization / Dashboard
-- Distribution plots and boxplots for all numerical features (product price, shipping cost, assembly cost, total amount, delivery window days, customer rating)
-- Count plots for all categorical features (product category, subcategory, brand, delivery status, payment method, assembly service)
-- Line and box plots for total amount, delivery window days, and customer rating across categories, subcategories, and brands
-- Correlation heatmap and pairplot across numerical variables
-- Post-imputation distribution comparisons to validate data integrity
-
-🔗 **[View Interactive Tableau Dashboard](https://public.tableau.com/your-dashboard-link-here)** *(replace with your actual link)*
-
 ## Key Insights
 - **Most popular categories:** → Outdoor (338 orders) and Living Room (333 orders); Dining Room ordered the least at 303
 - **Top subcategories:** → Bar Cart, Pantry Cabinet, Garden Chair, Kitchen Cabinet, and Office Chair led in demand
