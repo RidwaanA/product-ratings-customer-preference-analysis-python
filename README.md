@@ -18,10 +18,9 @@ The challenge:
 - Mix of free and paid assembly orders with 4 columns requiring missing value treatment
 
 ## Tools & Technologies
-- **Python** (Pandas, NumPy)
-- **Data Visualization** (Seaborn, Matplotlib)
+- **Python** (Pandas, NumPy, Seaborn, Matplotlib)
 - **Jupyter Notebook**
-- **Tableau** (for visualization and interactive dashboard)
+- **Tableau**
 
 ## Data Processing / Methodology
 - Converted `order_id` and `customer_id` from integer to object dtype for appropriate handling
