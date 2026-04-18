@@ -55,6 +55,38 @@ plt.show()
 ```
 
 ## Visualization / Dashboard
+
+**Python (Jupyter Notebook)**
+- 📌 Distribution plots and boxplots for all numerical features (product price, shipping cost, assembly cost, total amount, delivery window days, customer rating)
+- 📌 Count plots for all categorical features (product category, subcategory, brand, delivery status, payment method, assembly service)
+<img width="555" height="300" alt="Bar chart_Assembly requested count " src="https://github.com/user-attachments/assets/a845c673-4083-4d3b-a0ce-8164a95100a4" />
+
+- 📌 Line and box plots for total amount, delivery window days, and customer rating across categories, subcategories, and brands
+![Uploading Bar chart_Assembly requested count .png…]()
+<img width="405" height="369" alt="Line chart_Brand customer rating" src="https://github.com/user-attachments/assets/2e1b2655-a250-431f-8886-d2dd5f522407" />
+
+- 📌 Correlation heatmap and pairplot across numerical variables
+- 📌 Post-imputation distribution comparisons to validate data integrity
+
+---
+
+**Tableau**
+- 📌 Highlight table: Product categories; Brands
+- 📌 Tree map: Average total amount across product subcategories
+- 📌 Tree map: Average customer rating across product subcategories
+- 📌 Bar chart: Average total amount across product categories
+- 📌 Bar chart: Average total amount across brands
+- 📌 Bar chart: Average customer rating across product categories
+- 📌 Bar chart: Average customer rating across brands
+- 📌 Bar chart: Average customer rating across delivery statuses
+- 📌 Bar chart: Average customer rating across payment methods
+
+[**Dashboard Overview**]
+<img width="1366" height="768" alt="Screenshot (587)" src="https://github.com/user-attachments/assets/ba984b7b-3c7a-410d-b0d5-24688d52125e" />
+
+🔗 **[View Live Dashoard on Tableau Public](https://public.tableau.com/views/ProductRatingsCustomerPreferenceAnalysis/BrandOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+
+## Visualization / Dashboard
 - Distribution plots and boxplots for all numerical features (product price, shipping cost, assembly cost, total amount, delivery window days, customer rating)
 - Count plots for all categorical features (product category, subcategory, brand, delivery status, payment method, assembly service)
 - Line and box plots for total amount, delivery window days, and customer rating across categories, subcategories, and brands
@@ -92,4 +124,3 @@ This analysis enables:
 ## Next Steps
 - Build a predictive model to forecast customer ratings based on product and order attributes
 - Integrate time-series analysis to track seasonal demand and rating trends
-- Develop an interactive Tableau dashboard for real-time monitoring of product and delivery performance
